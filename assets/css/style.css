@@ -132,6 +132,7 @@ nav ul li a:hover::after {
   font-family: "Work Sans", sans-serif;
   padding: 3vh 6%;
   line-height: 1.7;
+  text-align: justify;
 }
 
 /* featured */
