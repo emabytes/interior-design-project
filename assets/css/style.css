@@ -180,6 +180,7 @@ iframe {
   justify-content: center;
   width: 33%;
   height: 32vh;
+  border: 0;
 }
 
 /* contact */
